@@ -41,7 +41,7 @@ Partial Class Form1
         cmdEjecutar.Name = "cmdEjecutar"
         cmdEjecutar.Size = New Size(112, 34)
         cmdEjecutar.TabIndex = 1
-        cmdEjecutar.Text = "Button1"
+        cmdEjecutar.Text = "Ejecutar"
         cmdEjecutar.UseVisualStyleBackColor = True
         ' 
         ' Form1
